@@ -1,0 +1,2 @@
+# Don-emzy-
+Trading bot 
